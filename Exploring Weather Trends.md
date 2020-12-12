@@ -19,6 +19,11 @@ Your goal will be to create a visualization and prepare a write up describing th
 
 #### Outline
 - The tools I'm using: 
-  - I used the SQL to extract the .csv data out.
-  - I used Python to do the rest.
-- I calculated the moving average by 5 years, 10 years and 20 years. For the initial years, I calculated by using the years prior to the 
+  - I used `SQL` to extract the .csv data out.
+  - I used `Python` to do the rest.
+- steps:
+  - I wrote some SQLs to extract the data out. One is the temperatures in my City (Birmingham, US) and another is the global temperatures. Saved as local.csv and global.csv.
+  - I used Pandas to read those .csv files in Jupyter notebook and do the moving average calculation and used the Matplotlib to plot the pictures.
+
+#### Results
+- Moving window = 5, the Trends are like 
