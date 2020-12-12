@@ -27,3 +27,7 @@ Your goal will be to create a visualization and prepare a write up describing th
 
 #### Results
 - Moving window = 5, the Trends are like 
+<p align="center">
+  <img src="https://github.com/wendydoog/Data-Analyst-Nanodegree-Project/blob/main/download.png" width="400" height="300">
+  </p>
+- Moving window = 5
