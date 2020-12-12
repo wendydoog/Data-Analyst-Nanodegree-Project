@@ -23,7 +23,10 @@ Your goal will be to create a visualization and prepare a write up describing th
   - I used `Python` to do the rest.
 - steps:
   - I wrote some SQLs to extract the data out. One is the temperatures in my City (Birmingham, US) and another is the global temperatures. Saved as local.csv and global.csv.
-  - I used Pandas to read those .csv files in Jupyter notebook and do the moving average calculation and used the Matplotlib to plot the pictures.
+  - I used Pandas to read those .csv files in Jupyter notebook.
+  - I cleaned the NaN value by using forward replacement.
+  - I did the moving average calculation by using rolling method.
+  - I used the Matplotlib to plot the pictures.
 
 #### Results
 - Moving window = 5, the Trends are like 
@@ -34,3 +37,12 @@ Your goal will be to create a visualization and prepare a write up describing th
 <p align="center">
   <img src="https://github.com/wendydoog/Data-Analyst-Nanodegree-Project/blob/main/moving%20average%20trend%20w10.png" width="400" height="300">
   </p>
+  
+  Some conclusions:
+  - It looks like the temperature of Birminghan is always hotter than the global about 8 degrees.
+  - They have similar shape of trends for the city Birmingham and the Global Average. They both have some big oscillation before 1850 and basically goes up after 1850.
+  - In year 1779, Birmingham reached the lowest temperature 10.26 degree, which is shown in picture obviously. At the same year, the global temperature reached 8.98 degree. And their difference was only 1.28 degree.
+  - With large window size, the trend looks smoother. For window_size = 10, it shows a better summary of how the trend goes than the one with window size = 5.
+
+####
+- code attached here in [Jupyter notebook](Weather Trends.ipynb).
