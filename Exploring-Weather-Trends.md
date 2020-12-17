@@ -45,5 +45,5 @@ Your goal will be to create a visualization and prepare a write up describing th
   - With large window size, the trend looks smoother. For window_size = 10, it shows a better summary of how the trend goes than the one with window size = 5.
 
 #### Accessory
-- code attached here in [Jupyter notebook](https://github.com/wendydoog/Data-Analyst-Nanodegree-Project/blob/main/Weather%20Trends.ipynb).
+- code attached here in [Jupyter notebook](Weather-Trends.ipynb).
 
