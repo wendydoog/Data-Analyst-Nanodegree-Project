@@ -44,5 +44,6 @@ Your goal will be to create a visualization and prepare a write up describing th
   - In year 1779, Birmingham reached the lowest temperature 10.26 degree, which is shown in picture obviously. At the same year, the global temperature reached 8.98 degree. And their difference was only 1.28 degree.
   - With large window size, the trend looks smoother. For window_size = 10, it shows a better summary of how the trend goes than the one with window size = 5.
 
-####
+#### Accessory
 - code attached here in [Jupyter notebook](https://github.com/wendydoog/Data-Analyst-Nanodegree-Project/blob/main/Weather%20Trends.ipynb).
+
