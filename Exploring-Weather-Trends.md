@@ -29,10 +29,8 @@ Your goal will be to create a visualization and prepare a write up describing th
   - I used the Matplotlib to plot the pictures.
 
 #### Results
-- Moving window = 5, the Trends are like 
-<p align="center">
-  <img src="https://github.com/wendydoog/Data-Analyst-Nanodegree-Project/blob/main/project1%20pic1.png" width="400" height="300">
-  </p>
+- Moving window = 5, the Trends are like ![image1](project1-pic1.png)
+
 - Moving window = 10，the Trends are like
 <p align="center">
   <img src="https://github.com/wendydoog/Data-Analyst-Nanodegree-Project/blob/main/moving%20average%20trend%20w10.png" width="400" height="300">
