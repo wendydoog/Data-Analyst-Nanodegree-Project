@@ -6,4 +6,4 @@
 
 ### Second project:
 
-[Investigate a Dataset](Investigate_a_Dataset.md)
+[Investigate a Dataset](investigate-a-dataset.ipynb)
