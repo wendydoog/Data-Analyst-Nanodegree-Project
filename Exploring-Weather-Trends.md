@@ -32,14 +32,11 @@ Your goal will be to create a visualization and prepare a write up describing th
   - I used the Matplotlib to plot the pictures.
 
 #### Results
-- Moving window = 5, the Trends are like  
-![alt text](project1-pic1.png "Title")
+- Moving window = 5, the Trends are like  ![alt text](project1-pic1.png "Title")
 
-- Moving window = 10, the Trends are like 
-![alt text](project1-pic2.png "Title")
+- Moving window = 10, the Trends are like ![alt text](project1-pic2.png "Title")
 
-- Moving window = 20, the Trends are like 
-![alt text](project1-pic3.png "Title")
+- Moving window = 20, the Trends are like ![alt text](project1-pic3.png "Title")
   
   Some conclusions:
   - It looks like the temperature of Birminghan is always hotter than the global about 8 degrees.
