@@ -14,7 +14,9 @@
 
 [Analyze A/B test results](Analyze_ab_test_results_notebook.ipynb)
 
-### Fourth project: （In progress...）
+### Fourth project:
 
 [Gathering, wrangling and analyzing WeRateDogs Twitter data](wrangle_act.ipynb)
+
+### Fifth project:
 
