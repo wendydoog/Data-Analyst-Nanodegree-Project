@@ -1,4 +1,4 @@
-![alt text](download.pdf)
+![alt text](certificate.png)
 
 # Data-Analyst-Nanodegree-Project
 
